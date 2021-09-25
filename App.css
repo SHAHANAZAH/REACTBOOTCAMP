@@ -1,0 +1,20 @@
+.title{
+  color:aqua;
+  text-align: center;
+}
+
+.count{
+  text-align:center;
+}
+
+.increment-button{
+  color:aqua;
+  
+  margin-left:550px;
+}
+
+.decrement-button{
+  color: aqua;
+  
+  margin-left:700px;
+}
